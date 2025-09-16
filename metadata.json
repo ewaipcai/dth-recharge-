@@ -1,0 +1,5 @@
+{
+  "name": "Copy of DTH Recharge Dashboard",
+  "description": "A responsive dashboard for managing DTH recharge customers, viewing history, and generating reports. Features include customer management, recharge tracking, data visualization, and export options.",
+  "requestFramePermissions": []
+}
